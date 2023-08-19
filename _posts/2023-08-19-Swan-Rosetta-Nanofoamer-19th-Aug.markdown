@@ -29,5 +29,4 @@ Nanofoamer 拉花天鹅树叶图
 ![](/assets/img/2023/08/19/IMG_6447.jpg)
 
 
-{% include youtubePlayer.html id=page.youtubeId %}
 
