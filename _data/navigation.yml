@@ -1,16 +1,8 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "Blogs"
     url: /blogs/
-  - title: "Categories"
-    url: /categories/
+  - title: "Previous Pages"
+    url: https://leftycoffee.webs50.com
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
 
