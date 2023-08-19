@@ -9,7 +9,19 @@ Nanofoamer Swan & Rosetta
 
 Nanofoamer 拉花天鹅树叶图
 
-{% include youtubePlayer.html id=page.youtubeId %}
+
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/O9ttn5CRShQ"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+
 
 
 ![](/assets/img/2023/08/19/IMG_6455.jpg)
@@ -17,4 +29,5 @@ Nanofoamer 拉花天鹅树叶图
 ![](/assets/img/2023/08/19/IMG_6447.jpg)
 
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
