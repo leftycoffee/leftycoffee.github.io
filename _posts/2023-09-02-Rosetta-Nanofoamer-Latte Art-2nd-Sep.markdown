@@ -25,7 +25,7 @@ Nanofoamer 拉花树叶图
 
 
 
-![](/assets/img/2023/09/01/IMG_7066.jpg)
+![](/assets/img/2023/09/02/IMG_7066.jpg)
 
-![](/assets/img/2023/09/01/IMG_7068.jpg)
+![](/assets/img/2023/09/02/IMG_7068.jpg)
 
