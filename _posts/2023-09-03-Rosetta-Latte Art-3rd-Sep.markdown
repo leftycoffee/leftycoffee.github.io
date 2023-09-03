@@ -29,3 +29,4 @@ Practice rosetta
 
 ![](/assets/img/2023/09/03/IMG_7109.jpg)
 
+蓝杯 - 这奶泡很薄
