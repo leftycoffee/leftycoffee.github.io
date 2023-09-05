@@ -28,4 +28,4 @@ Practice winged base
 
 ![](/assets/img/2023/09/05/IMG_7261.jpg)
 
-Granite杯 - 奶泡厚厚，推不开，下点后跟得慢了回包不好看
+
