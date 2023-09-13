@@ -2,8 +2,15 @@
 layout: single
 title:  "Rosetta Latte Art 13th Sep"
 date:   2023-09-13
-image: /assets/img/2023/09/13/IMG_7544.jpg
 ---
+
+{% if page.image %}
+  <meta property="og:image" content="/assets/img/2023/09/13/IMG_7544.jpg">
+{% else %}
+  <meta property="og:image" content="/assets/img/2023/09/13/IMG_7544.jpg">
+{% endif %}
+
+
 
 Practice rosetta
 
