@@ -2,6 +2,7 @@
 layout: single
 title:  "Rosetta Latte Art 13th Sep"
 date:   2023-09-13
+image: /assets/img/2023/09/13/IMG_7544.jpg
 ---
 
 Practice rosetta
