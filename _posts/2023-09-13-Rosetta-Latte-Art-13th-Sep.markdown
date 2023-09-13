@@ -9,6 +9,7 @@ date:   2023-09-13
   <meta property="og:image" content="/assets/img/2023/09/13/IMG_7544.jpg">
 {% endif %}
 
+<meta property="og:description" content="Rosetta Latte Art 13th Sep" />
 
 
 Practice rosetta
