@@ -4,9 +4,9 @@ title:  "Rosetta Latte Art 15th Sep"
 date:   2023-09-15
 ---
 {% if page.image %}
-  <meta property="og:image" content="/assets/img/2023/09/13/IMG_7544.jpg">
+  <meta property="og:image" content="/assets/img/2023/09/15/IMG_7618.jpg">
 {% else %}
-  <meta property="og:image" content="/assets/img/2023/09/13/IMG_7544.jpg">
+  <meta property="og:image" content="/assets/img/2023/09/15/IMG_7618.jpg">
 {% endif %}
 
 <meta property="og:description" content="Rosetta Latte Art 15th Sep" />
