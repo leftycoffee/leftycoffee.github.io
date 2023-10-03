@@ -35,4 +35,3 @@ Practice stacked rosetta
 ![](/assets/img/2023/10/03/IMG_8322.jpg)
 
 
-树叶杯 - 这奶泡可以，晃动刚好
