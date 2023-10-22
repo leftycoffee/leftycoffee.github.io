@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lefty Coffee"
 description              : "Latte Art Practice Blogs."
-url                      : "https://leftycoffee.github.io" 
+url                      : #"https://leftycoffee.github.io" 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://leftycoffee.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
