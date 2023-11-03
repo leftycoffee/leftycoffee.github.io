@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Winged Tulip Latte Art 3rdd Nov"
+title:  "Winged Tulip Latte Art 3rd Nov"
 date:   2023-11-03
 tags:
 - Latte Art
