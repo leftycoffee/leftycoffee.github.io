@@ -2,6 +2,9 @@
 layout: single
 title:  "Rosetta Latte Art 6th Nov"
 date:   2023-11-06
+tags:
+- Rosetta
+- Latte Art
 ---
 
 
