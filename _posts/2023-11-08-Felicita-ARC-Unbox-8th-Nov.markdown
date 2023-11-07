@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Felicita ARC Unbox Video 8th Nov"
-date:   2023-11-08
+date:   2023-11-07
 tags:
 - Felicita ARC 
 - Unbox
@@ -25,4 +25,3 @@ Felicita ARC Smart Scale unbox video.
 
 
 ![](/assets/img/2023/11/08/IMG_9726.jpg)
-
