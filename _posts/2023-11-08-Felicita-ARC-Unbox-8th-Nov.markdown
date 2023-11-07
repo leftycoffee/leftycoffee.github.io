@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Felicita ARC Unbox 8th Nov"
+title:  "Felicita ARC Unbox Video 8th Nov"
 date:   2023-11-08
 tags:
 - Felicita ARC 
@@ -11,7 +11,6 @@ tags:
 Felicita ARC Smart Scale unbox video.
 
 新智能咖啡秤的开箱视频。
-
 
 
 <div class="embed-container">
@@ -25,7 +24,5 @@ Felicita ARC Smart Scale unbox video.
 </div>
 
 
-
 ![](/assets/img/2023/11/08/IMG_9726.jpg)
-
 
