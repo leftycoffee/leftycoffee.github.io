@@ -7,9 +7,9 @@ tags:
 - Unbox
 ---
 
-Nanofoamer Special Edition unbox and try to pour some art.
+Nanofoamer Special Edition unbox and try to pour some art
 
-Nanofoamer 特别版开箱视频，拉花依然可以.
+Nanofoamer 特别版开箱视频，拉花依然可以
 
 
 <div class="embed-container">
