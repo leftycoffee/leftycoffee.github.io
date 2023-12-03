@@ -27,8 +27,8 @@ Practice rosetta
 
 
 
-![](/assets/img/2023/12/03/IMG_0531.jpg)
+![](/assets/img/2023/12/03/IMG_0778.jpg)
 
-![](/assets/img/2023/12/03/IMG_0536.jpg)
+![](/assets/img/2023/12/03/IMG_0781.jpg)
 
 树叶杯 - 又厚又锯齿
