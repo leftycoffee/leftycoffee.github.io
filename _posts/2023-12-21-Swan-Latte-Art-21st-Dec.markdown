@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Winged Tulip Latte Art 21st Dec"
+title:  "Swan Latte Art 21st Dec"
 date:   2023-12-21
 tags:
 - Latte Art
@@ -18,7 +18,7 @@ Practice swan latte art
   <iframe
       src="https://www.youtube.com/embed/IktYcck3lYA"
       width="700"
-      height="480"
+      height="481"
       frameborder="0"
       allowfullscreen="true">
   </iframe>
