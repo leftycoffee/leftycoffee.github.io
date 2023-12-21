@@ -26,7 +26,7 @@ Practice swan latte art
 
 
 
-![](/assets/img/2023/12/21/IMG_7590.jpg)
+![](/assets/img/2023/12/21/IMG_7590.JPG)
 
-![](/assets/img/2023/12/21/IMG_7593.jpg)
+![](/assets/img/2023/12/21/IMG_7593.JPG)
 
