@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Rosetta Latte Art 8th Feb"
+title:  "Triple Rosetta Latte Art 8th Feb"
 date:   2024-02-08
 tags:
 - Triple Rosetta
