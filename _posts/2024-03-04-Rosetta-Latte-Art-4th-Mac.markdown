@@ -30,4 +30,4 @@ Practice rosetta
 ![](/assets/img/2024/03/04/IMG_4104.jpg)
 
 
-树叶杯 - 奶泡小厚，整体可以
+Blue杯 - 奶泡又厚了
