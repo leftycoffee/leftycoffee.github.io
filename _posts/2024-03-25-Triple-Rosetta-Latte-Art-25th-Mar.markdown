@@ -28,4 +28,3 @@ Practice rosetta
 ![](/assets/img/2024/03/25/IMG_4829.jpg)
 ![](/assets/img/2024/03/25/IMG_4831.jpg)
 
-Granite杯 - 这杯奶泡确实不错
