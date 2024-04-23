@@ -28,4 +28,4 @@ Practice rosetta
 ![](/assets/img/2024/04/23/IMG_5824.jpg)
 ![](/assets/img/2024/04/23/IMG_5830.jpg)
 
-PCA杯 - 奶泡比之前稍好
+树叶杯 - 奶泡不错
