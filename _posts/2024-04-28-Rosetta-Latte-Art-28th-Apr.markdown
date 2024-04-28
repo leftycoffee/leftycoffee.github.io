@@ -28,4 +28,5 @@ Practice rosetta
 ![](/assets/img/2024/04/28/IMG_6054.jpg)
 ![](/assets/img/2024/04/28/IMG_6057.jpg)
 
-树叶杯 - 奶泡不错
+PCA杯 - 奶泡可以，收尾却歪了
+
