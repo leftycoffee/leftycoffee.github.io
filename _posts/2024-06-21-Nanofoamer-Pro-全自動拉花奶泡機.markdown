@@ -28,8 +28,8 @@ tags:
 \
 用了Nanofoamer Pro就快滿一年，整體而言我是非常滿意的。如今Pro已跟著我去過不同的國家和城市旅行，完美契合我的加熱需求，也讓我在出門時能夠不間斷地喝著那杯有拉花的香濃咖啡。😊😊
 \
-購買鏈接 [link](https://www.givings.co/collections/%E5%A5%B6%E6%B3%A1%E5%99%A8%E5%85%B7/products/nanofoamerpro)
-\
+**購買鏈接** - [給意思](https://www.givings.co/collections/%E5%A5%B6%E6%B3%A1%E5%99%A8%E5%85%B7/products/nanofoamerpro)
+
 <div class="embed-container">
   <iframe
       src="https://www.youtube.com/embed/k52vwK5ikgg"
