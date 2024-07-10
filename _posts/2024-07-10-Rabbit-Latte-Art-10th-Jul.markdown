@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Winged Tulip Latte Art 10th Jul"
+title:  "Rabbit Latte Art 10th Jul"
 date:   2024-07-10
 tags:
 - Latte Art
