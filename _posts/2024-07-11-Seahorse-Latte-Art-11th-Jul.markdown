@@ -25,5 +25,3 @@ Practice seahorse latte art
 
 
 ![](/assets/img/2024/07/11/B026EEF2-36A1-49EC-B291-5E31C2797DD1.JPG)
-
-
