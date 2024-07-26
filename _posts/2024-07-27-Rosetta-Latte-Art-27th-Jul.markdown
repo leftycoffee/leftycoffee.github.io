@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Rosetta Latte Art 27th Jul"
-date:   2024-07-27
+date:   2024-07-26
 tags:
 - Rosetta
 - Latte Art
