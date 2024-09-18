@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Nanofoamer Swan Latte Art 18th Sep"
-date:   2024-09-07
+date:   2024-09-18
 tags:
 - Nanofoamer Pro
 - Gen-2
