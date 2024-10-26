@@ -24,4 +24,4 @@ Nanofoamer swan
 </div>
 
 
-![](/assets/img/2024/10/26/6D27992D-F3A8-44E0-A4FE-A71086F3C1E4.JPG)
+![](/assets/img/2024/10/26/3B41C1F4-AFF6-4705-9985-A9D9A40497D2.JPG)
