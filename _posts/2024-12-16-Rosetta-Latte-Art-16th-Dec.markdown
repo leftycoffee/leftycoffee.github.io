@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Rosetta Latte Art 16th Dec"
+title:  "Tri Rosetta Latte Art 16th Dec"
 date:   2024-12-16
 tags:
-- Rosetta
+- Tri Rosetta
 - Latte Art
 ---
 
