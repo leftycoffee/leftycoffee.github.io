@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Winged Tulip Latte Art 26th Jan"
-date:   2025-01-26
+title:  "Winged Tulip Latte Art 29th Jan"
+date:   2025-01-29
 tags:
 - Latte Art
 - Winged Tulip
@@ -25,5 +25,5 @@ Practice winged base
 </div>
 
 
-![](/assets/img/2025/01/26/7D29443C-5861-493C-9EE7-3E82E8C7E6B9.JPG)
+![](/assets/img/2025/01/29/9B4842A7-12FC-46F3-BFE0-A5E82839657D.JPG)
 
