@@ -27,5 +27,5 @@ Practice Seahorse latte art with froth from DREO BaristaMaker
 </div>
 
 
-![](/assets/img/2025/02/12/C6B8B838-4D30-4A89-B40A-60D6EF29249A.JPG)
+![](/assets/img/2025/02/12/E640C73E-3F9C-4CBB-BC97-27035F40F33B.JPG)
 
