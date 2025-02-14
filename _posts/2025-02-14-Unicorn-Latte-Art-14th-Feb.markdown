@@ -23,4 +23,4 @@ Unicorn Latte Art practice
 </div>
 
 
-![](/assets/img/2025/02/14/1C1CD584-FE32-4D1C-BCEB-222F2DB676C2.JPG)
+![](/assets/img/2025/02/14/126CDB4C-E4EA-4742-8872-5B6399F385C8.JPG)
