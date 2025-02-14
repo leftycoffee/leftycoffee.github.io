@@ -25,5 +25,5 @@ Practice winged base
 </div>
 
 
-![](/assets/img/2025/02/13/59286FA0-4B2D-4A38-9E70-FD593619AE7B.JPG)
+![](/assets/img/2025/02/13/C556055B-E76B-486D-9010-43CA39FE53A6.JPG)
 
