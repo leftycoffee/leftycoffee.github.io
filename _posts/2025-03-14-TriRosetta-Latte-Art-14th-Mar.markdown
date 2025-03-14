@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Rosetta Latte Art 14th Mar"
+title:  "TriRosetta Latte Art 14th Mar"
 date:   2025-03-14
 tags:
 - TriRosetta
