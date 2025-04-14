@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Unicorn Latte Art 14th Apr"
+title:  "Hornbill Latte Art 14th Apr"
 date:   2025-04-14
 tags:
 - Latte Art
