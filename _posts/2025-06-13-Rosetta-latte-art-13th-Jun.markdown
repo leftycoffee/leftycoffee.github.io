@@ -4,10 +4,7 @@ title:  "Rosetta latte art 13th Jun"
 date:   2025-06-13
 tags:
 - Latte Art
-- Swan
-- DREO
-- DREO Air
-- BaristaMaker
+- Rosetta 
 ---
 
 Practice rosetta latte art 13th jun
