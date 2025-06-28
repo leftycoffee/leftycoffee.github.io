@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Automate Video Upload"
-date:   2025-06-29
+date:   2025-06-28
 tags:
 - automate
 - video
