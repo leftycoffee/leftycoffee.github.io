@@ -37,8 +37,9 @@ My email notification today :D
 
 ![](/assets/img/2025/06/29/notification.jpg)
 
-The script:-
+You can view the Python script on [GitHub](https://github.com/leftycoffee/leftycoffee.github.io/blob/master/onedrivemonitor/onedrivemon.py).
 
+🔗 [View onedrivemon.py on GitHub](https://github.com/leftycoffee/leftycoffee.github.io/blob/master/onedrivemonitor/onedrivemon.py)
 
 
 
