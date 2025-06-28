@@ -8,6 +8,7 @@ tags:
 - github
 ---
 
+## Current workflow
 This is my current routine to compose and upload latte art videos:-
 1. Compose video on mobile with Inshot app
 2. Upload video (from #1) and photos to onedrive (leftycoffee account)
@@ -18,11 +19,12 @@ This is my current routine to compose and upload latte art videos:-
 
 Took me a while to organize and put together the workflow. These tasks took at least 30-45min a day, with the presumptions of stable internet connection. That affect upload speed greatly. 
 
+## Challenge
 I have some oversea trips lately and thought of automating the tasks. Quite hard to do all these when I'm out traveling, nor without my laptop or stable internet connection. 
 
 Re-looking back into the workflows, in fact I can automate most of this. After some conversation (with ChatGPT) and I found I can automate task #2 - #4. ChatGPT did recommend me to automate all of these including the facebook post too, however I'm still enjoy doing the posting part, hence am saving it perhaps for the next phase. 
 
-
+## Automation to the rescue
 Here's the new workflow:-
 1. Compose video on mobile with Inshot app, compose cover photo with Phonto app
 2. Upload video & photo to onedrive (leftycoffee account)
@@ -35,6 +37,7 @@ My email notification today :D
 
 ![](/assets/img/2025/06/29/notification.jpg)
 
+The script:-
 
 
 
