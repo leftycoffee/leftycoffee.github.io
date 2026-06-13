@@ -21,3 +21,4 @@ Practice nanofoamer swan latte art 13th june
 </div>
 
 ![](/assets/img/2026/06/13/Nanofoamer Swan Latte Art 13th June.JPG)
+
